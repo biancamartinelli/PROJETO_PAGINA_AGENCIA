@@ -1,4 +1,4 @@
-# Projeto Página Tagência - HTML e CSS: O início - Prof. Matheus Battisti
+# Projeto Página Agência - HTML e CSS: O início - Prof. Matheus Battisti
 
 💡 Acesso ao curso:
 
